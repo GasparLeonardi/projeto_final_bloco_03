@@ -20,7 +20,7 @@ function Home() {
                         </div>
                     </div>
 
-                    <div className="flex justify-center w-[33.7rem]">
+                    <div className="flex justify-center w-[36.8rem] h-[100%rem]">
                         <img
                             src="https://aluminio.sp.gov.br/wp-content/uploads/2019/10/ZE-GOTINHA.png"
                             alt="Imagem Página Home"
