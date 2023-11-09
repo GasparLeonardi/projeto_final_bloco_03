@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 function Home() {
     return (
         <>
@@ -15,7 +17,7 @@ function Home() {
                             <div className='rounded text-white 
                                             border-white border-solid border-2 py-2 px-4'
                                 >
-                                Ver produtos
+                                <Link to='/categorias' className='hover:underline'>Categorias</Link>
                             </div>
                         </div>
                     </div>
